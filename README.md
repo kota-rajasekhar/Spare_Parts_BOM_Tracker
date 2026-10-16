@@ -16,5 +16,15 @@ Excel tracker that links pharma equipment to spare parts, quantities and costs, 
 | Equipment_Summary | Parts, quantity, unit cost and total cost per equipment |
 | Bill_of_Material_Report | Required quantity and cost for a bulk order |
 
+### Preview
+
+**Equipment Summary**
+
+<img src="Screenshot%20%28296%29.png" alt="Equipment Summary sheet" width="800">
+
+**Bill of Material Report**
+
+<img src="Screenshot%20%28298%29.png" alt="Bill of Material Report sheet" width="800">
+
 ## Tools
 Microsoft Excel
